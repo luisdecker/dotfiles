@@ -29,7 +29,7 @@ set_from_resource $bg  i3wm.color8 #f0f0f0
 set_from_resource $bgu i3wm.color0
 
 #Rounded borders
-border_radius 20
+border_radius 14
 
 # class                 border  backgr. text indicator child_border
 client.focused          $bg     $bg     $fg  $bg       $bg
